@@ -19,7 +19,7 @@ const NavBar = () => {
         <>
             <Navbar bg="light" expand="lg" className="fixed-top">
                 <Container>
-                    <Navbar.Brand href="#home">Redux-testing-page</Navbar.Brand>
+                    <Navbar.Brand href="#home">Products Page</Navbar.Brand>
                     <Nav.Link to="/" as={Link}>Products</Nav.Link>
                     <Navbar.Toggle aria-controls="basic-navbar-nav" />
                     <Navbar.Collapse id="basic-navbar-nav" className='justify-content-end'>
