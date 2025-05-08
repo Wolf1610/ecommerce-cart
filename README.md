@@ -1,2 +1,2 @@
-Simple redux stater app,
+## Simple redux stater app,
 Including cart functionality in a ecommerce app 
